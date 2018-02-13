@@ -1,4 +1,4 @@
-import styles from './Logo.css';
+const styles = require('./Logo.css');
 
 import React, { Component } from 'react';
 
